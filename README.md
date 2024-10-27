@@ -10,12 +10,12 @@ I also watch movies, anime, create videogames and make 3D modeling and animation
 
 ### 🌱 What I’m currently learning
 
-I'm currently learning Chinese language and world history.
+I'm currently learning Japanese language and culture, and also how to draw lol.
 
 ### ⚡ Fun facts
 
 - I'm not very good at math.
-- The first time I learned some concepts of coding was when I copied a Discord bot code from a Youtube tutorial.
+- The first time I learned some concepts of coding was when I copied a Discord bot code from a YouTube tutorial.
 - "Purriau" is my favorite word, a Spanish word that I invented mixing "purr" and "miau".
 
 ### 💭 Reach me
